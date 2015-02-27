@@ -9,5 +9,6 @@
      <string name="high_score_saved">Highest Score: %3d</string>
       <string name="next_level">Next Level</string>
     <string name="time_remaining_format">Time remaining: %.1f seconds</string>
+    
 
 </resources>
